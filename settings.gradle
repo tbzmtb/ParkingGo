@@ -1,0 +1,1 @@
+include ':app', ':JAVA_TCP_SDK_2.0.0'

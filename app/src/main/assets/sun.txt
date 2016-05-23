@@ -1,0 +1,2 @@
+{"parking_name":"pyung chon parking","floor_count":"2","floor_list":[{"floor_name":"지하1층","max_position_x":"50","max_position_y":"50","data":[여기에 넣으세요]},{"floor_name":"지하2층","max_position_x":"2","max_position_y":"3","data":[{"position_x":"1","position_y":"0","reservation":"0","parking_state":"0","lot_name":"B2"}]}]}
+

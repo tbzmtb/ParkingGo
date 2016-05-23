@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_first_residents_parking_management" type="drawable">@drawable/menu_first</item>
+    <item name="ic_menu_reservation" type="drawable">@drawable/menu_resrvation</item>
+    <item name="ic_menu_setting" type="drawable">@drawable/menu_setting</item>
+    <item name="ic_menu_logout" type="drawable">@drawable/menu_logout</item>
+</resources>

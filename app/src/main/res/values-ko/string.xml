@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parking Manager</string>
+    <string name="action_settings">설정</string>
+    <string name="prompt_email">아이디</string>
+    <string name="prompt_password">패스워드</string>
+    <string name="action_sign_in_short">로그인</string>
+    <string name="error_invalid_email">아이디를 확인해주세요.</string>
+    <string name="error_invalid_password">패스워드를 확인해주세요.</string>
+    <string name="error_incorrect_password">패스워드가 확인해주세요.</string>
+    <string name="error_field_required">아이디는 확인해주세요.</string>
+    <string name="car_parking_manager">Car Parking Manager</string>
+    <string name="main_title_parking_lot">PARKING</string>
+    <string name="menu_first_residents_parking_management">거주자 우선 주차관리</string>
+    <string name="menu_reservation_confirm">예약 리스트</string>
+    <string name="menu_setting">설정</string>
+    <string name="menu_logout">로그아웃</string>
+    <string name="total">총</string>
+    <string name="parkinged">주차</string>
+    <string name="parking_available">주차가능</string>
+    <string name="need_check">점검</string>
+    <string name="booked_parking">오늘의 예약</string>
+    <string name="parking_lot_infomation">주차구역 정보</string>
+    <string name="parking_lot_history">주차 기록</string>
+    <string name="parking_lot_text">주차 구역</string>
+    <string name="btn_parking_history_text">최근기록</string>
+    <string name="total_history">최근기록</string>
+    <string name="setting">설정</string>
+    <string name="parking_start">주차시작</string>
+    <string name="parking_current">현재시간</string>
+    <string name="parking_end">주차종료</string>
+    <string name="lot_info_hour">시</string>
+    <string name="lot_info_minute">분</string>
+    <string name="lot_info_second">초</string>
+    <string name="lot_info_total_fee">합계</string>
+    <string name="lot_info_fee">요금</string>
+    <string name="lot_info_won">원</string>
+    <string name="in_the_lot">구역에 주차 되었습니다.</string>
+    <string name="out_of_the_lot">구역에서 차가 나갑니다.</string>
+    <string name="check_is_needed">점검이 필요합니다.</string>
+    <string name="push_notification">푸시알림</string>
+    <string name="entry_car">입차</string>
+    <string name="exit_car">출차</string>
+    <string name="entry_information">차량 입차 정보</string>
+    <string name="exit_information">차량 출차 정보</string>
+    <string name="none_parking">현재 주차 중이 아닙니다.</string>
+    <string name="reservation">예약된 주차면수</string>
+    <string-array name="day_of_week">
+        <item>일요일</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+    </string-array>
+</resources>

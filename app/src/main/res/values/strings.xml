@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Parking Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_email">ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">ID is invalid</string>
+    <string name="error_invalid_password">This password is incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="car_parking_manager">Car Parking Manager</string>
+    <string name="main_title_parking_lot">PARKING</string>
+    <string name="menu_first_residents_parking_management">First residents parking</string>
+    <string name="menu_reservation_confirm">Booked List</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_logout">Logout</string>
+    <string name="total">T</string>
+    <string name="parkinged">P</string>
+    <string name="parking_available">A</string>
+    <string name="need_check">C</string>
+    <string name="booked_parking">Todays Booked</string>
+    <string name="parking_lot_infomation">Parking Lot Infomation</string>
+    <string name="parking_lot_history">Parking Lot History</string>
+    <string name="parking_lot_text">Lot Name</string>
+    <string name="btn_parking_history_text">History</string>
+    <string name="total_history">HISTORY</string>
+    <string name="setting">SETTING</string>
+    <string name="parking_start">Parking Start</string>
+    <string name="parking_current">Current Time</string>
+    <string name="parking_end">Parking End</string>
+    <string name="lot_info_hour">H</string>
+    <string name="lot_info_minute">M</string>
+    <string name="lot_info_second">S</string>
+    <string name="lot_info_total_fee">Total fee</string>
+    <string name="lot_info_fee">fee</string>
+    <string name="lot_info_won">won</string>
+    <string name="in_the_lot">Car is parked in the lot.</string>
+    <string name="out_of_the_lot">The car out of the lot.</string>
+    <string name="check_is_needed">check is needed.</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="entry_car">Entry Car</string>
+    <string name="exit_car">Exit Car</string>
+    <string name="entry_information">Entry information</string>
+    <string name="exit_information">Exit information</string>
+    <string name="none_parking">Parking lot is empty.</string>
+    <string name="reservation">Reservation</string>
+
+
+    <string-array name="day_of_week">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wen</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>
