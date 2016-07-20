@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IoTSecuritySDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/IoTSecuritySDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
